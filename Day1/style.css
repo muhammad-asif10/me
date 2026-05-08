@@ -25,3 +25,28 @@ img{
     width: 100px;
     height: 100px;
 }
+.skills h2{
+    background-color: aqua;
+    width: 60px;
+    height: 35px;
+}
+
+.projects h2{
+    background-color: aqua;
+    width: 75px;
+    height: 35px;
+}
+a.project{
+    background-color: yellow;
+
+}
+.education h2{
+    background-color: aqua;
+    width: 105px;
+    height: 35px;
+}
+.coreSubjects h2{
+    background-color: aqua;
+    width: 150px;
+    height: 35px;
+}
